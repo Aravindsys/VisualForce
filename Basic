@@ -1,0 +1,3 @@
+in vf pages:
+use apex:pageBlockTable for default styling used by Salesforce, cant customize it
+use apex:DataTable for using your custom styling
